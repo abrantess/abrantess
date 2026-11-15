@@ -1,6 +1,6 @@
 <div align="center">
 
-# Francisco Abrantes
+# Abrantes
 ### Principal AI Systems Architect • Distributed Cognitive Networks • Autonomous Agent Swarms
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect;Autonomous+Multi-Agent+Swarms+(Swarm+Intelligence);High-Throughput+Inference+Engines+%26+Model+Routers;Zero-Trust+Distributed+Systems+%26+Edge+Engineering)](https://git.io/typing-svg)
